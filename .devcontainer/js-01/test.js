@@ -1,0 +1,1 @@
+console.log("Hey, Sush here, i was just testing codespace for javascript");
